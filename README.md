@@ -1,2 +1,8 @@
 # iFacialMocap2VMC
-Tool to convert iFacialMocap's messages to VMC-protocol
+Tool to convert iFacialMocap's messages to VMC-protocol.
+
+## Usage
+- Install iFacialMocap to iPhone
+- Connect iFacialMocap2VMC to iPhone's IP
+- Connect iFacialMocap2VMC to VMC-protocol target's IP and Port
+- Click Connect
