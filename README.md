@@ -1,5 +1,5 @@
 # iFacialMocap2VMC
-Tool to convert iFacialMocap's messages to VMC-protocol.
+Protocol converter to convert iFacialMocap's messages to VMC-protocol.
 
 ## Usage
 - Install iFacialMocap to iPhone
