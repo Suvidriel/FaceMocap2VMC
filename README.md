@@ -1,5 +1,5 @@
 # iFacialMocap2VMC
-Protocol converter to convert iFacialMocap's messages to VMC-protocol.
+Protocol converter to convert iFacialMocap's facial expression messages to VMC-protocol. Doesn't convert head rotations
 
 ## Usage
 - Install iFacialMocap to iPhone
